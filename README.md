@@ -1,1 +1,1 @@
-A code mostly created by fellows of Institute for Cognitive Neuroscience of Higher School of Economics. Eddited and adapted by two high school students. 
+A code mostly created by fellows of Institute for Cognitive Neuroscience of Higher School of Economics. Edited and adapted by two high school students. You can view the paper, which is a final result of our project under the file "Article".
